@@ -2,7 +2,6 @@
 title: Proyecto_Lemur
 author: AUTOR NAME
 output: github_document
-date: `r format(Sys.Date(), "%d-%m-%Y")`
 editor_options:
   chunk_output_type: console
 ---
