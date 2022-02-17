@@ -4,6 +4,7 @@ author: "Beatriz Willink"
 date: "5/12/2021"
 output: html_document
 ---
+wwwww
 
 Este es un mundo alternativo en el que conocemos (inventamos) la realidad y la realidad es sumamente sencilla.
 
